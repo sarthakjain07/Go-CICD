@@ -11,5 +11,5 @@ func main() {
 }
 
 func hello() string {
-	return "Hello SarthakJ"
+	return "Hello Sarthak"
 }
